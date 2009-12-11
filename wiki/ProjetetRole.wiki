@@ -4,7 +4,7 @@
 
 Bon voici ce que je vous propose : une application JAVA utilisé uniquement par le personne du club, une page HTML utilisé par les membres simplement pour de la consultation, une page HTML proposant une aide pour l'utilisation du logiciel
 
-= Role =
+= Roles =
 
 Niveau répartition des taches :
   * *John, Erion et Khadidja* : rapport en latex + les 2 pages HTML
