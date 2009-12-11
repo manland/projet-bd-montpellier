@@ -5,11 +5,11 @@
 Bon voici ce que je vous propose : une application JAVA utilisé uniquement par le personne du club, une page HTML utilisé par les membres simplement pour de la consultation, une page HTML proposant une aide pour l'utilisation du logiciel
 
 Niveau répartition des taches :
-_John, Erion et Khadidja : rapport en latex + les 2 pages HTML
-_Audrey et Mélanie : création de la BDD
-_M@n : coté graphique de l'application JAVA
-_Laurent : coté données de l'application JAVA
-_Willow : aide à la création de la BDD + aide à la programmation de l'application JAVA (possibilité d'intégrer les 2 parties)
+_*John, Erion et Khadidja* : rapport en latex + les 2 pages HTML
+_*Audrey et Mélanie* : création de la BDD
+_*M@n* : coté graphique de l'application JAVA
+_*Laurent* : coté données de l'application JAVA
+_*Willow* : aide à la création de la BDD + aide à la programmation de l'application JAVA (possibilité d'intégrer les 2 parties)
 
 Si la tache que je vous propose ne vous plait pas ... faites m'en part le plus vite possible et dites moi ce qui vous intéresserais de faire.
 Si vous avez envie de participer à l'elaboration d'autres parties du logiciel, pareil
