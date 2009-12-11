@@ -18,6 +18,6 @@ Voila, je ne vois pas comment être plus précis.
 
 _Comme vous l'avez remarqué je ne met plus de e à la fin de erreur..._
 
-Donc je pense que partir propre est mère de toute *bonne prog*. Du coup, je propose de créer une classe Erreur static qui n'aura comme but que d'afficher les erreurs, ainsi à la fin il suffira de les enregistrer dans un fichier pour que cela deviennent des logs.
+Donc je pense que partir propre est mère de toute *bonne prog*. Du coup, je propose de créer une classe Erreur avec une(des) fonction(s) membre(s) static qui n'aura comme but que d'afficher les erreurs, ainsi à la fin il suffira de les enregistrer dans un fichier pour que cela deviennent des logs.
 
 = Bonne prog en Java =
