@@ -14,6 +14,8 @@ Soit un beau nom pour un tout petit concept. En gros vous devez séparer les don
 
 Voila, je ne vois pas comment être plus précis.
 
+Un très bon tutorial sur le mvc : <a href="http://baptiste-wicht.developpez.com/tutoriel/conception/mvc/">Tuto MVC</a>
+
 = Erreurs =
 
 _Comme vous l'avez remarqué je ne met plus de e à la fin de erreur..._
@@ -21,3 +23,11 @@ _Comme vous l'avez remarqué je ne met plus de e à la fin de erreur..._
 Donc je pense que partir propre est mère de toute *bonne prog*. Du coup, je propose de créer une classe Erreur avec une(des) fonction(s) membre(s) static qui n'aura comme but que d'afficher les erreurs, ainsi à la fin il suffira de les enregistrer dans un fichier pour que cela deviennent des logs.
 
 = Bonne prog en Java =
+
+Les listeners permettent de mettre au courant le graphisme d'un changement des données. Voici un bon point de départ : <a href="http://rom.developpez.com/java-listeners/">Listeners</a>
+
+= Idées =
+
+_Ce sont des petites choses que je notterais plus pour moi..._
+
+  * Recherche originale : <a href="http://gfx.developpez.com/tutoriel/java/swing/search/">Search</a>
