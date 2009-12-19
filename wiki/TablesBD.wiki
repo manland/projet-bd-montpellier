@@ -34,10 +34,10 @@
 = Cours Squash =
 
   * CoursSquash ( <u>id_cours</u>, #id_prof, type) //type = indiv ou collectif
-  * CoursIndiv ( <u>#id_cours</u>, #num_ad)
-  * CoursCollectif ( <u>#id_cours</u>, nb_personne ) 
-  * InscriptionCoursColl ( <u>#id_cours</u>, <u>#num_ad</u> )
-  * CreneauCours ( #id_cours, <u>#id_ter</u>, <u>date_deb</u>, <u>date_fin</u> )
+  * CoursSquashIndiv ( <u>#id_cours</u>, #num_ad)
+  * CoursSquashCollectif ( <u>#id_cours</u>, nb_personne ) 
+  * InscriptionCoursSquashColl ( <u>#id_cours</u>, <u>#num_ad</u> )
+  * CreneauCoursSquash ( #id_cours, <u>#id_ter</u>, <u>date_deb</u>, <u>date_fin</u> )
 
 = Gym =
 
