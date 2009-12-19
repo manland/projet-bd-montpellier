@@ -24,12 +24,12 @@
 = Forfaits =
 
   * Forfait ( <u>type_for</u>, prix_base )
-  * Souscrit ( <u>#type_for</u>, <u>#num_ad</u>, <u>date_deb</u>, <u>date_fin</u> )
+  * Souscrit ( <u>#type_for</u>, <u>#num_ad</u>, <u>date_deb</u>, date_fin )
 
 = Terrains Squash =
 
   * !TerrainSquash ( <u>num_ter</u> )
-  * !ReservationTerrain ( <u>#num_ter</u>, <u>date_deb</u>, <u>date_fin</u>, #id_pers, prix_paye)
+  * !ReservationTerrain ( <u>#num_ter</u>, <u>date_deb</u>, date_fin, #id_pers, prix_paye)
 
 = Cours Squash =
 
@@ -37,7 +37,7 @@
   * !CoursSquashIndiv ( <u>#id_cours</u>, #num_ad)
   * !CoursSquashCollectif ( <u>#id_cours</u>, nb_personne ) 
   * !InscriptionCoursSquashColl ( <u>#id_cours</u>, <u>#num_ad</u> )
-  * !CreneauCoursSquash ( #id_cours, <u>#id_ter</u>, <u>date_deb</u>, <u>date_fin</u> )
+  * !CreneauCoursSquash ( #id_cours, <u>#id_ter</u>, <u>date_deb</u>, date_fin )
 
 = Gym =
 
