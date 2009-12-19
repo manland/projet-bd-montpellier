@@ -19,7 +19,7 @@
 
   * Casier ( <u>num_cas</u> )
   * !ReservationAnnee ( <u>#num</u>, <u>#num_ad</u>, <u>annee</u> )
-  * !ReservationSeance ( <u>#num</u>, #id_pers, <u>creneau</u>, prix_paye)
+  * !ReservationSeance ( <u>#num</u>, #id_pers, <u>date</u>,<u>heure_debut</u>, heure_fin, prix_paye)
 
 = Forfaits =
 
