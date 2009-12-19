@@ -10,8 +10,8 @@
 
 = Matériel = 
 
-  * !MaterielVente( <u>reference</u>, quantite, description, prix_base)
-  * !MaterielLocation ( <u>num_mat</u>, reference, date_achat, etat, prix_base)
+  * !MaterielVente( <u>type_materiel</u>, quantite, prix_base)
+  * !MaterielLocation ( <u>num_mat</u>, type_materiel, date_achat, etat, prix_base)
   * Location ( <u>date_loc</u>, <u>#num_mat</u>, <u>#id_pers</u>, prix_paye)
   * Vente ( <u>#type</u>, <u>#id_pers</u>, <u>date_vente</u>, quantite, prix_reel)
 
