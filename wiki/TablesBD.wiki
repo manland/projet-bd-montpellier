@@ -6,12 +6,12 @@
   * Personne ( <u>id_personne</u>, nom, prenom )
   * Adherent ( <u>num_ad</u>, #id_pers)
   * !PersonnelAdmin ( <u>num_empl</u>, #id_pers, affectation)
-  * PersonnelSportif ( <u>num_empl</u>, #id_pers, type_prof)
+  * !PersonnelSportif ( <u>num_empl</u>, #id_pers, type_prof)
 
 = Matériel = 
 
-  * MaterielVente( <u>type</u>, quantite, prix_base)
-  * MaterielLocation ( <u>num_mat</u>, type, date_achat, etat, prix_base)
+  * !MaterielVente( <u>type</u>, quantite, prix_base)
+  * !MaterielLocation ( <u>num_mat</u>, type, date_achat, etat, prix_base)
   * Location ( <u>date_loc</u>, <u>#num_mat</u>, <u>#id_pers</u>, prix_paye)
   * Vente ( <u>#type</u>, <u>#id_pers</u>, <u>date_vente</u>, quantite, prix_reel)
 
