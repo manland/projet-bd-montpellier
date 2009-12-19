@@ -13,7 +13,7 @@
   * !MaterielVente( <u>type_materiel</u>, quantite, prix_base)
   * !MaterielLocation ( <u>num_mat</u>, type_materiel, date_achat, etat, prix_base)
   * Location ( <u>date_loc</u>, <u>#num_mat</u>, <u>heure_debut</u>, heure_fin, #id_pers, prix_paye)
-  * Vente ( <u>#type</u>, <u>#id_pers</u>, <u>date_vente</u>, quantite, prix_reel)
+  * Vente ( <u>#type</u>, <u>#id_pers</u>, <u>date_vente</u>, quantite, prix_paye)
 
 = Casiers =
 
