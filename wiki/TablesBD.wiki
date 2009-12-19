@@ -1,0 +1,46 @@
+#summary Dans cette page vous trouverez les bases de données effectives
+#labels Phase-QA
+
+= Personnes =
+
+  * Personne ( <u>id_personne</u>, nom, prenom )
+  * Adherent ( <u>num_ad</u>, #id_pers)
+  * PersonnelAdmin ( <u>num_empl</u>, #id_pers, affectation)
+  * PersonnelSportif ( <u>num_empl</u>, #id_pers, type_prof)
+
+= Matos = 
+
+  * MaterielVente( <u>type</u>, quantite, prix_base)
+  * MaterielLocation ( <u>num_mat</u>, type, date_achat, etat, prix_base)
+  * Location ( <u>date_loc</u>, <u>#num_mat</u>, <u>#id_pers</u>, prix_paye)
+  * Vente ( <u>#type</u>, <u>#id_pers</u>, <u>date_vente</u>, quantite, prix_reel)
+
+= Casiers =
+
+  * Casier ( <u>num_cas</u> )
+  * ReservationAnnee ( <u>#num</u>, <u>#num_ad</u>, <u>annee</u> )
+  * ReservationSeance ( <u>#num</u>, #id_pers, <u>creneau</u>, prix_paye)
+
+= Forfaits =
+
+  * Forfait ( <u>type_for</u>, prix_base )
+  * Souscrit ( <u>#type_for</u>, <u>#num_ad</u>, <u>date_deb</u>, <u>date_fin</u> )
+
+= Terrains Squash =
+
+  * TerrainSquash ( <u>num_ter</u> )
+  * ReservationTerrain ( <u>#num_ter</u>, <u>date_deb</u>, <u>date_fin</u>, #id_pers, prix_paye)
+
+= Cours Squash =
+
+  * CoursSquash ( <u>id_cours</u>, #id_prof, type) //type = indiv ou collectif
+  * CoursIndiv ( <u>#id_cours</u>, #num_ad)
+  * CoursCollectif ( <u>#id_cours</u>, nb_personne ) 
+  * InscriptionCoursColl ( <u>#id_cours</u>, <u>#num_ad</u> )
+  * CreneauCours ( #id_cours, <u>#id_ter</u>, <u>date_deb</u>, <u>date_fin</u> )
+
+= Gym =
+
+  * SalleGym ( <u>id_salle</u>, capacite)
+  * CoursGym ( <u>type_cours</u>, #id_prof )
+  * CreneauGym ( <u>#id_salle</u>, <u>#type_cours</u>, <u>jour</u>, <u>heure</u> )
