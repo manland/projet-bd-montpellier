@@ -3,10 +3,10 @@
 
 = Personnes =
 
-  * Personne ( <u>id_personne</u>, nom, prenom )
-  * Adherent ( <u>num_ad</u>, #id_pers)
-  * !PersonnelAdmin ( <u>num_empl</u>, #id_pers, affectation)
-  * !PersonnelSportif ( <u>num_empl</u>, #id_pers, type_prof)
+  * Personne ( <u>id_personne</u>, nom, prenom, dateDeNaissance, adresse)
+  * Adherent ( <u>num_adherent</u>, #id_personne)
+  * !PersonnelAdmin ( <u>num_employe</u>, #id_personne, affectation)
+  * !PersonnelSportif ( <u>id_prof</u>, #id_personne, type_sport)
 
 = Matériel = 
 
