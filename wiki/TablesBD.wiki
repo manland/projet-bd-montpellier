@@ -5,15 +5,15 @@
 
   * Personne ( <u>id_personne</u>, nom, prenom, dateDeNaissance, adresse)
   * Adherent ( <u>num_adherent</u>, #id_personne)
-  * !PersonnelAdmin ( <u>num_employe</u>, #id_personne, affectation)
+  * !PersonnelAdministratif ( <u>num_employe</u>, #id_personne, affectation)
   * !PersonnelSportif ( <u>id_prof</u>, #id_personne, type_sport)
 
 = Matériel = 
 
   * !MaterielVente( <u>type_materiel</u>, quantite, prix_base)
-  * !MaterielLocation ( <u>num_mat</u>, type_materiel, date_achat, etat, prix_base)
-  * Location ( <u>date_loc</u>, <u>#num_mat</u>, <u>heure_debut</u>, heure_fin, #id_pers, prix_paye)
-  * Vente ( <u>#type</u>, <u>#id_pers</u>, <u>date_vente</u>, quantite, prix_paye)
+  * !MaterielLocation ( <u>num_materiel</u>, type_materiel, date_achat, etat, prix_base)
+  * Location ( <u>date_location</u>,<u>heure_debut</u>,heure_fin, <u>#num_materiel</u>, #id_personne, prix_paye)
+  * Vente ( <u>#type_materiel</u>, <u>date_vente</u>, <u>#id_personne</u>,  quantite, prix_paye)
 
 = Casiers =
 
