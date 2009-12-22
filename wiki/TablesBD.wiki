@@ -1,5 +1,5 @@
 #summary Dans cette page vous trouverez les bases de données effectives
-#labels Phase-QA
+#labels Phase-QA,Featured
 
 = Personnes =
 
@@ -23,8 +23,8 @@
 
 = Forfaits =
 
-  * Forfait ( <u>type_for</u>, prix_base )
-  * Souscrit ( <u>#type_for</u>, <u>#num_ad</u>, <u>date_deb</u>, date_fin )
+  * Forfait ( <u>type_forfait</u>, prix_base )
+  * Souscription ( <u>#type_forfait</u>, <u>#num_adherent</u>, <u>date_debut</u>, <u>date_fin</u> )
 
 = Terrains Squash =
 
