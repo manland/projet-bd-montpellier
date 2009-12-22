@@ -13,12 +13,12 @@
   * !MaterielVente( <u>type_materiel</u>, quantite, prix_base)
   * !MaterielLocation ( <u>num_materiel</u>, type_materiel, date_achat, etat, prix_base)
   * Location ( <u>date_location</u>,<u>heure_debut</u>,heure_fin, <u>#num_materiel</u>, #id_personne, prix_paye)
-  * Vente ( <u>#type_materiel</u>, <u>date_vente</u>, <u>#id_personne</u>,  quantite, prix_paye)
+  * Vente ( <u>num_vente</u>,#type_materiel, date_vente, #id_personne,  quantite, prix_paye)
 
 = Casiers =
 
-  * Casier ( <u>num_cas</u> )
-  * !ReservationAnnee ( <u>#num</u>, <u>#num_ad</u>, <u>annee</u> )
+  * Casier ( <u>num_casier</u> )
+  * !ReservationAnnee ( <u>#num_casier</u>, #num_adherent, <u>annee</u> )
   * !ReservationSeance ( <u>#num</u>, #id_pers, <u>date</u>,<u>heure_debut</u>, heure_fin, prix_paye)
 
 = Forfaits =
