@@ -33,8 +33,8 @@
 
 = Cours Squash =
 
-  * !coursSquash ( <u>id_cours</u>, #id_prof, type) //type = indiv ou collectif
-  * !coursSquashIndiv ( <u>#id_cours</u>, #num_ad)
+  * !coursSquash ( <u>id_cours</u>, #id_prof, type_de_cours) //type = indiv ou collectif
+  * !coursSquashIndividuel ( <u>#id_cours</u>, #num_adherent)
   * !coursSquashCollectif ( <u>#id_cours</u>, nb_personne ) 
   * !inscriptionCoursSquashColl ( <u>#id_cours</u>, <u>#num_ad</u> )
   * !creneauCoursSquash ( #id_cours, <u>#id_ter</u>, <u>date_deb</u>, date_fin )
