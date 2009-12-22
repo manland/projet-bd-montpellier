@@ -43,4 +43,4 @@
 
   * !salleGym ( <u>id_salle</u>, capacite)
   * !coursGym ( <u>type_cours</u>, #id_prof )
-  * !creneauCoursGym ( <u>#id_salle</u>, <u>#type_cours</u>, <u>date_cours</u>, <u>heure_debut</u>, heure_fin)
+  * !creneauCoursGym ( <u>#id_salle</u>, #type_cours, <u>date_cours</u>, <u>heure_debut</u>, heure_fin)
