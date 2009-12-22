@@ -3,44 +3,44 @@
 
 = Personnes =
 
-  * Personne ( <u>id_personne</u>, nom, prenom, dateDeNaissance, adresse)
-  * Adherent ( <u>num_adherent</u>, #id_personne)
-  * !PersonnelAdministratif ( <u>num_employe</u>, #id_personne, affectation)
-  * !PersonnelSportif ( <u>id_prof</u>, #id_personne, type_sport)
+  * personne ( <u>id_personne</u>, nom, prenom, dateDeNaissance, adresse)
+  * adherent ( <u>num_adherent</u>, #id_personne)
+  * !personnelAdministratif ( <u>num_employe</u>, #id_personne, affectation)
+  * !personnelSportif ( <u>id_prof</u>, #id_personne, type_sport)
 
 = Matériel = 
 
-  * !MaterielVente( <u>type_materiel</u>, quantite, prix_base)
-  * !MaterielLocation ( <u>num_materiel</u>, type_materiel, date_achat, etat, prix_base)
-  * Location ( <u>date_location</u>,<u>heure_debut</u>,heure_fin, <u>#num_materiel</u>, #id_personne, prix_paye)
-  * Vente ( <u>num_vente</u>,#type_materiel, date_vente, #id_personne,  quantite, prix_paye)
+  * !materielVente( <u>type_materiel</u>, quantite, prix_base)
+  * !materielLocation ( <u>num_materiel</u>, type_materiel, date_achat, etat, prix_base)
+  * location ( <u>date_location</u>,<u>heure_debut</u>,heure_fin, <u>#num_materiel</u>, #id_personne, prix_paye)
+  * vente ( <u>num_vente</u>,#type_materiel, date_vente, #id_personne,  quantite, prix_paye)
 
 = Casiers =
 
-  * Casier ( <u>num_casier</u> )
-  * !ReservationAnnee ( <u>#num_casier</u>, #num_adherent, <u>annee</u> )
-  * !ReservationSeance ( <u>#num_casier</u>, <u>date_location</u>, <u>heure_debut</u>, heure_fin #id_pers, prix_paye)
+  * casier ( <u>num_casier</u> )
+  * !reservationAnnee ( <u>#num_casier</u>, #num_adherent, <u>annee</u> )
+  * !reservationSeance ( <u>#num_casier</u>, <u>date_location</u>, <u>heure_debut</u>, heure_fin #id_pers, prix_paye)
 
 = Forfaits =
 
-  * Forfait ( <u>type_forfait</u>, prix_base )
-  * Souscription ( <u>#type_forfait</u>, <u>#num_adherent</u>, <u>date_debut</u>, <u>date_fin</u> )
+  * forfait ( <u>type_forfait</u>, prix_base )
+  * souscription ( <u>#type_forfait</u>, <u>#num_adherent</u>, <u>date_debut</u>, <u>date_fin</u> )
 
 = Terrains Squash =
 
-  * !TerrainSquash ( <u>num_ter</u> )
-  * !ReservationTerrain ( <u>#num_ter</u>, <u>date_deb</u>, date_fin, #id_pers, prix_paye)
+  * !terrainSquash ( <u>num_terrain_squash</u> )
+  * !reservationTerrainSquash ( <u>#num_terrain_squash</u>, <u>date_location</u>, <u>heure_debut</u>, <u>heure_fin</u>, #id_personne, prix_paye)
 
 = Cours Squash =
 
-  * !CoursSquash ( <u>id_cours</u>, #id_prof, type) //type = indiv ou collectif
-  * !CoursSquashIndiv ( <u>#id_cours</u>, #num_ad)
-  * !CoursSquashCollectif ( <u>#id_cours</u>, nb_personne ) 
-  * !InscriptionCoursSquashColl ( <u>#id_cours</u>, <u>#num_ad</u> )
-  * !CreneauCoursSquash ( #id_cours, <u>#id_ter</u>, <u>date_deb</u>, date_fin )
+  * !coursSquash ( <u>id_cours</u>, #id_prof, type) //type = indiv ou collectif
+  * !coursSquashIndiv ( <u>#id_cours</u>, #num_ad)
+  * !coursSquashCollectif ( <u>#id_cours</u>, nb_personne ) 
+  * !inscriptionCoursSquashColl ( <u>#id_cours</u>, <u>#num_ad</u> )
+  * !creneauCoursSquash ( #id_cours, <u>#id_ter</u>, <u>date_deb</u>, date_fin )
 
 = Gym =
 
-  * !SalleGym ( <u>id_salle</u>, capacite)
-  * !CoursGym ( <u>type_cours</u>, #id_prof )
-  * !CreneauGym ( <u>#id_salle</u>, <u>#type_cours</u>, <u>jour</u>, <u>heure</u> )
+  * !salleGym ( <u>id_salle</u>, capacite)
+  * !coursGym ( <u>type_cours</u>, #id_prof )
+  * !creneauGym ( <u>#id_salle</u>, <u>#type_cours</u>, <u>jour</u>, <u>heure</u> )
