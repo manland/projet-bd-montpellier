@@ -37,7 +37,7 @@
   * !coursSquashIndividuel ( <u>#id_cours</u>, #num_adherent)
   * !coursSquashCollectif ( <u>#id_cours</u>, nb_personne ) 
   * !inscriptionCoursSqCollectif ( <u>#id_cours</u>, <u>#num_adherent</u> )
-  * !creneauCoursSquash ( #id_cours, <u>#num_terrain_squash</u>,<u>date_cours</u>,<u>heure_debut</u>, heure_fin )
+  * !creneauCoursSquash ( <u>#id_cours</u>, #num_terrain_squash,<u>date_cours</u>,<u>heure_debut</u>, heure_fin )
 
 = Gym =
 
