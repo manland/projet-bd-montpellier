@@ -17,6 +17,7 @@ Je vous rappel, que je met ce post mais qu'il n'y a pas toutes les images, on va
 
 Plusieurs règles :
   * Respecter la taille des icones (principalement 48x48) pour ne pas modifier l'aspect visuel du prog
+  * Toutes les images doivent avoir comme extension .png
   * Pas d'images persos genre votre mémé ou votre pépé (on veut un truc un minimum sérieux)
   * Chacun peut faire autant de skin qu'il souhaite
   * Lâchez-vous... L'originalité est bien noté ;)
