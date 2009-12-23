@@ -25,6 +25,11 @@ Plusieurs règles :
 
 Pour cela rien de plus simple, vous compressez votre skin (dossier) au format zip et vous l'ajoutez dans les Downloads de ce site avec un nom du genre : Skin_NomDuSkin, pour moi ça aurait donné Skin_Man !!
 
+= Sites d'icones =
+
+Trouvez ici des sites contenant de belles icones (vous pouvez en ajouter) :
+  * <a href="http://www.iconarchive.com/">iconarchive</a>
+
 = Récompense =
 
 L'honneur d'avoir son skin comme skin principal !! Et donc présenté à la prof !!
