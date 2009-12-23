@@ -1,0 +1,30 @@
+#summary Pour le logiciel j'ai pensé créer un petit concours auquel tout le monde est invité à participer.
+#labels Phase-Design,Phase-Implementation
+
+= Introduction =
+
+Je le met volontairement tôt ici pour vous permettre de tous faire un ti truc... Pour participer rien de plus simple. Rendez-vous dans le dossier : ~workspace/Musquash/bin/Graphique vous trouverez un dossier Man qui correspond à mon skin. Vous n'avez plus qu'à créer un dossier XXX et y ajouter des icones de même nom que dans le mien au même endroit.
+
+Je vous rappel, que je met ce post mais qu'il n'y a pas toutes les images, on va en ajouter d'autres... Vous pourrez voir les images qui sont déjà programmées mais que j'ai pas ajouté dans mon skin, en regardant le terminal !!
+
+= Images manquantes dans mon skin =
+
+  * man/Images/Batiments/Salles.png
+  * man/Images/Options/Serveur Oracle.png
+  * man/Images/Tab.png
+
+= Détails =
+
+Plusieurs règles :
+  * Respecter la taille des icones (principalement 48x48) pour ne pas modifier l'aspect visuel du prog
+  * Pas d'images persos genre votre mémé ou votre pépé (on veut un truc un minimum sérieux)
+  * Chacun peut faire autant de skin qu'il souhaite
+  * Lâchez-vous... L'originalité est bien noté ;)
+
+= Remise des Skins =
+
+Pour cela rien de plus simple, vous compressez votre skin (dossier) au format zip et vous l'ajoutez dans les Downloads de ce site avec un nom du genre : Skin_NomDuSkin, pour moi ça aurait donné Skin_Man !!
+
+= Récompense =
+
+L'honneur d'avoir son skin comme skin principal !! Et donc présenté à la prof !!
