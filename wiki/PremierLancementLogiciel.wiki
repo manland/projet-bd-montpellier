@@ -20,4 +20,14 @@ Vous pouvez maintenant lancer notre logiciel, puis entrer votre loggin et passwo
 
 Si les tables ne sont pas présentent, le logiciel les installera.
 
-Régalez-vous bien !!
+= Utilisation =
+
+Je vous conseil en premier lieu d'aller dans Personnes -> Personnels/Utilisateurs afin de vous créer quelques Personnes.
+
+= Ce qui fonctionne =
+
+  * Personnes
+    * Personnels
+    * Utilisateurs
+  * Batiments
+    * Casier
