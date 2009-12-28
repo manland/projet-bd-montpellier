@@ -8,21 +8,21 @@ Pour faire marcher notre logiciel suivez les 3 étapes ci-dessous.
 
 = 1 - Eclipse =
 
-Pour développer nous utilisons Eclipse. Il vous faut donc importer le projet, téléchargez le dans la section Dowload puis dézippez le. Placez le dans votre Workspace. Enfin ouvrez Eclipse, il devrait gueler à cause des bibliothèques qui sont pas au bon endroit. C'est normal car Eclipse utilise la localisation absolue et donc il va chercher les bibliothèques dans /home/manland... Vous devez donc clickez droit sur le projet, puis "properties" et enfin "Java build Path". Allez chercher les biblios manquantes dans le dossier de départ du projet. Ces bibliothèques sont pour Linux et je ne sais pas du tout si ce sont les même sous Windob à essayer !!
+Pour développer nous utilisons Eclipse. Il vous faut donc importer le projet, téléchargez le dans la section Download puis dézippez le. Placez le dans votre Workspace. Enfin ouvrez Eclipse, il devrait gueuler à cause des bibliothèques qui sont pas au bon endroit. C'est normal car Eclipse utilise la localisation absolue et donc il va chercher les bibliothèques dans /home/manland... Vous devez donc cliquez droit sur le projet, puis "properties" et enfin "Java build Path". Allez chercher les biblios manquantes dans le dossier de départ du projet. Ces bibliothèques sont pour Linux et je ne sais pas du tout si ce sont les mêmes sous Windob à essayer !!
 
 = 2 - Oracle =
 
-Il vous suffit de le télécharger et de l'installer, puis d'avoir un loggin et password pour vous y connecter. Sous Linux il suffit d'ouvrir le gestionnaire Oracle et d'ajouter un utilisateur.
+Il vous suffit de le télécharger et de l'installer, puis d'avoir un login et password pour vous y connecter. Sous Linux il suffit d'ouvrir le gestionnaire Oracle et d'ajouter un utilisateur.
 
 = 3 - Notre Logiciel =
 
-Vous pouvez maintenant lancer notre logiciel, puis entrer votre loggin et password. Pour le serveur il est automatiquement mis sur local, vous n'avez pas à le changer normalement. 
+Vous pouvez maintenant lancer notre logiciel, puis entrer votre login et password. Pour le serveur il est automatiquement mis sur local, vous n'avez pas à le changer normalement. 
 
-Si les tables ne sont pas présentent, le logiciel les installera.
+Si les tables ne sont pas présentes, le logiciel les installera.
 
 = Utilisation =
 
-Je vous conseil en premier lieu d'aller dans Personnes -> Personnels/Utilisateurs afin de vous créer quelques Personnes.
+Je vous conseille en premier lieu d'aller dans Personnes -> Personnels/Utilisateurs afin de vous créer quelques Personnes.
 
 = Ce qui fonctionne =
 
