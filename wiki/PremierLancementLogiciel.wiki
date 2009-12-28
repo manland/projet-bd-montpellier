@@ -13,6 +13,7 @@ Pour développer nous utilisons Eclipse. Il vous faut donc importer le projet, t
 = 2 - Oracle =
 
 Il vous suffit de le télécharger et de l'installer, puis d'avoir un login et password pour vous y connecter. Sous Linux il suffit d'ouvrir le gestionnaire Oracle et d'ajouter un utilisateur.
+Sous windows : http://www.oracle.com/technology/products/database/xe/index.html , il suffit de remplir le petit questionnaire
 
 = 3 - Notre Logiciel =
 
