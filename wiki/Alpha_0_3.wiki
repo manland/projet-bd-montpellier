@@ -1,5 +1,5 @@
 #summary Voici les modifications apportées
-#labels Phase-Implementation,Phase-Support
+#labels Phase-Implementation,Phase-Support,Featured
 
 = Coeur =
 
