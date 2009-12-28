@@ -3,7 +3,7 @@
 
 = Introduction =
 
-Je le met volontairement tôt ici pour vous permettre de tous faire un ti truc... Pour participer rien de plus simple. Rendez-vous dans le dossier : ~workspace/Musquash/bin/Graphique vous trouverez un dossier Man qui correspond à mon skin. Vous n'avez plus qu'à créer un dossier XXX et y ajouter des icones de même nom que dans le mien au même endroit.
+Je le met volontairement tôt ici pour vous permettre de tous faire un ti truc... Pour participer rien de plus simple. Rendez-vous dans le dossier : ~workspace/Musquash/bin vous trouverez un dossier Man qui correspond à mon skin. Vous n'avez plus qu'à créer un dossier XXX et y ajouter des icones de même nom que dans le mien au même endroit.
 
 Je vous rappel, que je met ce post mais qu'il n'y a pas toutes les images, on va en ajouter d'autres... Vous pourrez voir les images qui sont déjà programmées mais que j'ai pas ajouté dans mon skin, en regardant le terminal !!
 
