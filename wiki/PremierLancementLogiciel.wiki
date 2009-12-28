@@ -8,7 +8,7 @@ Pour faire marcher notre logiciel suivez les 3 étapes ci-dessous.
 
 = 1 - Eclipse =
 
-Pour développer nous utilisons Eclipse. Il vous faut donc importer le projet, téléchargez le dans la section Download puis dézippez le. Placez le dans votre Workspace. Enfin ouvrez Eclipse, il devrait gueuler à cause des bibliothèques qui sont pas au bon endroit. C'est normal car Eclipse utilise la localisation absolue et donc il va chercher les bibliothèques dans /home/manland... Vous devez donc cliquez droit sur le projet, puis "properties" et enfin "Java build Path". Allez chercher les biblios manquantes dans le dossier de départ du projet. Ces bibliothèques sont pour Linux et je ne sais pas du tout si ce sont les mêmes sous Windob à essayer !!
+Pour développer nous utilisons Eclipse. Il vous faut donc importer le projet, téléchargez le dans la section Download puis dézippez le. Placez le dans votre Workspace. Enfin ouvrez Eclipse, il devrait gueuler à cause des bibliothèques qui sont pas au bon endroit. C'est normal car Eclipse utilise la localisation absolue et donc il va chercher les bibliothèques dans /home/manland... Vous devez donc cliquez droit sur le projet, puis "properties" et enfin "Java build Path". Allez chercher les biblios manquantes dans le dossier de départ du projet. Ces bibliothèques sont pour Linux et pour windows
 
 = 2 - Oracle =
 
