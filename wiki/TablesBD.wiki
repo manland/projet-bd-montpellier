@@ -29,7 +29,7 @@
 = Terrains Squash =
 
   * !terrainSquash ( <u>num_terrain_squash</u> )
-  * !reservationTerrainSquash ( <u>#num_terrain_squash</u>, <u>date_location</u>, <u>heure_debut</u>, <u>heure_fin</u>, #id_personne, prix_paye)
+  * !reservationTerrainSquash ( <u>#num_terrain_squash</u>, <u>date_location</u>, <u>heure_debut</u>, <u>heure_fin</u>,<u>minute_debut</u>,<u>minute_fin</u>, #id_personne, prix_paye)
 
 = Cours Squash =
 
