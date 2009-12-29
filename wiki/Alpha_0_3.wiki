@@ -3,7 +3,10 @@
 
 = Coeur =
 
-A remplir par laurent
+Parties complétés :
+   * Personnes
+   * Matériels
+   * Casiers
 
 = Base de donnée =
 
