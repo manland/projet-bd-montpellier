@@ -24,6 +24,7 @@ Voici la liste des images (non finale) avec leur emplacement et leur taille, pen
   * home.png  --> 48x48
   * Batiments (Dossier)
     * Batiments.png  --> 128x128
+    * Salles.png  --> 128x128
     * Brasserie.png  --> 128x128
     * Casier.png  --> 128x128
     * Vours.png  --> 128x128
@@ -52,6 +53,8 @@ Voici la liste des images (non finale) avec leur emplacement et leur taille, pen
       * supprimer.png  --> 48x48
   * Options (Dossier)
     * Options.png  --> 128x128
+    * Skins.png  --> 128x128
+    * Serveur Oracle.png  --> 128x128
   * Personnes (Dossier)
     * Personnes.png  --> 128x128
     * Personnels.png  --> 128x128
@@ -63,7 +66,6 @@ Voici la liste des images (non finale) avec leur emplacement et leur taille, pen
 = Images manquantes dans mon skin =
 
   * man/Images/Batiments/Salles.png
-  * man/Images/Options/Serveur Oracle.png
   * man/Images/Tab.png
 
 = Remise des Skins =
