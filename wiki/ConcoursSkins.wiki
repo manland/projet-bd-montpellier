@@ -7,12 +7,6 @@ Je le met volontairement tôt ici pour vous permettre de tous faire un ti truc..
 
 Je vous rappel, que je met ce post mais qu'il n'y a pas toutes les images, on va en ajouter d'autres... Vous pourrez voir les images qui sont déjà programmées mais que j'ai pas ajouté dans mon skin, en regardant le terminal !!
 
-= Images manquantes dans mon skin =
-
-  * man/Images/Batiments/Salles.png
-  * man/Images/Options/Serveur Oracle.png
-  * man/Images/Tab.png
-
 = Détails =
 
 Plusieurs règles :
@@ -65,6 +59,12 @@ Voici la liste des images (non finale) avec leur emplacement et leur taille, pen
     * add-user.png  --> 48x48
     * edit-user.png  --> 48x48
     * remove-user.png  --> 48x48
+
+= Images manquantes dans mon skin =
+
+  * man/Images/Batiments/Salles.png
+  * man/Images/Options/Serveur Oracle.png
+  * man/Images/Tab.png
 
 = Remise des Skins =
 
