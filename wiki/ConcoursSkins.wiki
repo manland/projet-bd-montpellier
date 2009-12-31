@@ -22,6 +22,50 @@ Plusieurs règles :
   * Chacun peut faire autant de skin qu'il souhaite
   * Lâchez-vous... L'originalité est bien noté ;)
 
+= Images et tailles =
+
+Voici la liste des images (non finale) avec leur emplacement et leur taille, pensez que le dossier de votre skin doit être déposé dans ~/workspace/Musquash/bin/votre_nom_de_skin/Images puis :
+  * deconnecte.png  --> 48x48
+  * ok.png  --> 48x48
+  * home.png  --> 48x48
+  * Batiments (Dossier)
+    * Batiments.png  --> 128x128
+    * Brasserie.png  --> 128x128
+    * Casier.png  --> 128x128
+    * Vours.png  --> 128x128
+    * Casier (Dossier)
+      * Annee.png  --> 48x48
+      * Annuler.png  --> 48x48
+      * casier-plein.png  --> 48x48
+      * casier-commence.png  --> 48x48
+      * casier-vide.png  --> 48x48
+      * recharger.png  --> 48x48
+      * reserver.png  --> 48x48
+      * seance.png  --> 48x48
+  * Client (Dossier)
+    * Client Internet.png  --> 128x128
+    * Options.png  --> 128x128
+  * Euros (Dossier)
+    * Euros.png  --> 128x128
+    * Location.png  --> 128x128
+    * Vente.png  --> 128x128
+    * vente (Dossier)
+      * ajouter.png  --> 48x48
+      * annuler.png  --> 48x48
+      * facture.png  --> 48x48
+      * modifier.png  --> 48x48
+      * recherche.png  --> 48x48
+      * supprimer.png  --> 48x48
+  * Options (Dossier)
+    * Options.png  --> 128x128
+  * Personnes (Dossier)
+    * Personnes.png  --> 128x128
+    * Personnels.png  --> 128x128
+    * Utilisateurs.png  --> 128x128
+    * add-user.png  --> 48x48
+    * edit-user.png  --> 48x48
+    * remove-user.png  --> 48x48
+
 = Remise des Skins =
 
 Pour cela rien de plus simple, vous compressez votre skin (dossier) au format zip et vous l'ajoutez dans les Downloads de ce site avec un nom du genre : Skin_NomDuSkin, pour moi ça aurait donné Skin_Man !!
