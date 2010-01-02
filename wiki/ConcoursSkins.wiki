@@ -24,10 +24,19 @@ Voici la liste des images (non finale) avec leur emplacement et leur taille, pen
   * home.png  --> 48x48
   * Batiments (Dossier)
     * Batiments.png  --> 128x128
-    * Salles.png  --> 128x128
+    * Salles.png  --> 128x128 --> Modifier en Squash.png --> 128x128
     * Brasserie.png  --> 128x128
     * Casier.png  --> 128x128
-    * Vours.png  --> 128x128
+    * Cours.png  --> 128x128 --> Modifier en Gymnastique.png --> 128x128
+    * Squash (Dossier) #Nouveau version 0.5#
+      * Annuler.png --> 48x48
+      * Cours.png --> 48x48
+      * Recharger.png --> 48x48
+      * Reserver.png --> 48x48
+      * Terrain.png --> 48x48
+      * terrain-commence.png --> 128x128
+      * terrain-plein.png --> 128x128
+      * terrain-vide.png --> 128x128
     * Casier (Dossier)
       * Annee.png  --> 48x48
       * Annuler.png  --> 48x48
