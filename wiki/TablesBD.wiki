@@ -34,13 +34,14 @@
 = Cours Squash =
 
   * !coursSquash ( <u>id_cours</u>, #id_prof, type_de_cours) //type = indiv ou collectif
-  * !coursSquashIndividuel ( <u>#id_creneau</u>, #num_adherent)
+  * !coursSquashIndividuel ( <u>#id_cours</u>, #num_adherent)
   * !coursSquashCollectif ( <u>#id_cours</u>, nb_personne ) 
-  * !inscriptionCoursSqCollectif ( <u>#id_creneau</u>, <u>#num_adherent</u> )
-  * !creneauCoursSquash ( <u>id_creneau</u>,#id_cours, #num_terrain_squash,date_cours,heure_debut,heure_fin)
+  * !inscriptionCoursSqCollectif ( <u>#id_cours</u>, <u>#num_adherent</u> )
+  * creneauCoursSqIndividuel(#id_cours,<u>#num_terrain_squash</u>,date_cours,heure_debut,heure_fin)
+  * creneauCoursSqColl(#id_cours,<u>#num_terrain_squash</u>,<u>jour</u>,<u>heure_debut</u>,heure_fin,<u>debut_trimestre</u>)
 
 = Gym =
 
   * !salleGym ( <u>id_salle</u>, capacite)
   * !coursGym ( <u>type_cours</u>, #id_prof )
-  * !creneauCoursGym ( <u>#id_salle</u>, #type_cours, <u>date_cours</u>, <u>heure_debut</u>, heure_fin)
+  * !creneauCoursGym ( <u>#id_salle</u>, #type_cours, <u>date_cours</u>, <u>heure_debut</u>, heure_fin,debut_trimestre)
