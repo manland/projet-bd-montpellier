@@ -34,10 +34,10 @@
 = Cours Squash =
 
   * !coursSquash ( <u>id_cours</u>, #id_prof, type_de_cours) //type = indiv ou collectif
-  * !coursSquashIndividuel ( <u>#id_cours</u>, #num_adherent)
+  * !coursSquashIndividuel ( <u>#id_creneau</u>, #num_adherent)
   * !coursSquashCollectif ( <u>#id_cours</u>, nb_personne ) 
-  * !inscriptionCoursSqCollectif ( <u>#id_cours</u>, <u>#num_adherent</u> )
-  * !creneauCoursSquash ( #id_cours, <u>#num_terrain_squash</u>,<u>date_cours</u>,<u>heure_debut</u>, <u>heure_fin</u> )
+  * !inscriptionCoursSqCollectif ( <u>#id_creneau</u>, <u>#num_adherent</u> )
+  * !creneauCoursSquash ( <u>id_creneau</u>,#id_cours, #num_terrain_squash,date_cours,heure_debut,heure_fin)
 
 = Gym =
 
