@@ -38,7 +38,7 @@
   * !coursSquashCollectif ( <u>#id_cours</u>, nb_personne ) 
   * !inscriptionCoursSqCollectif ( <u>#id_cours</u>, <u>#num_adherent</u> )
   * creneauCoursSqIndividuel(#id_cours,<u>#num_terrain_squash</u>,date_cours,heure_debut,heure_fin)
-  * creneauCoursSqColl(#id_cours,<u>#num_terrain_squash</u>,<u>jour</u>,<u>heure_debut</u>,heure_fin,<u>debut_trimestre</u>)
+  * creneauCoursSqColl(<u>#id_cours</u>,#num_terrain_squash,jour,heure_debut,heure_fin,<u>debut_trimestre</u>)
 
 = Gym =
 
