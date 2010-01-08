@@ -24,10 +24,10 @@ Voici la liste des images (non finale) avec leur emplacement et leur taille, pen
   * home.png  --> 48x48
   * Batiments (Dossier)
     * Batiments.png  --> 128x128
-    * Salles.png  --> 128x128 --> Modifier en Squash.png --> 128x128
+    * Salles.png  --> 128x128 --> Modifier en Squash.png --> 128x128 _alpha 0.4_
     * Brasserie.png  --> 128x128
     * Casier.png  --> 128x128
-    * Cours.png  --> 128x128 --> Modifier en Gymnastique.png --> 128x128
+    * Cours.png  --> 128x128 --> Modifier en Gymnastique.png --> 128x128 _alpha 0.4_
     * Squash (Dossier) #Nouveau version 0.5#
       * Annuler.png --> 48x48
       * Cours.png --> 48x48
@@ -48,7 +48,7 @@ Voici la liste des images (non finale) avec leur emplacement et leur taille, pen
       * seance.png  --> 48x48
   * Client (Dossier)
     * Client Internet.png  --> 128x128
-    * Options.png  --> 128x128
+    * Options.png --> 128x128 --> Modifier en  Lancer.png --> 128x128 _alpha 0.5_
   * Euros (Dossier)
     * Euros.png  --> 128x128
     * Location.png  --> 128x128
@@ -62,8 +62,8 @@ Voici la liste des images (non finale) avec leur emplacement et leur taille, pen
       * supprimer.png  --> 48x48
   * Options (Dossier)
     * Options.png  --> 128x128
-    * Skins.png  --> 128x128
-    * Serveur Oracle.png  --> 128x128
+    * Skins.png  --> 128x128 --> Modifier en  Parametres.png --> 128x128 _alpha 0.5_
+    * Serveur Oracle.png  --> 128x128 --> Modifier en  Deconnection.png --> 128x128 _alpha 0.5_
   * Personnes (Dossier)
     * Personnes.png  --> 128x128
     * Personnels.png  --> 128x128
