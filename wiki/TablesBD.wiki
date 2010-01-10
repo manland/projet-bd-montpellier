@@ -18,12 +18,13 @@
 = Casiers =
 
   * casier ( <u>num_casier</u> )
-  * !reservationAnnee ( <u>#num_casier</u>, #num_adherent, <u>annee</u> )
-  * !reservationSeance ( <u>#num_casier</u>, <u>date_location</u>, <u>heure_debut</u>, heure_fin #id_pers, prix_paye)
+  * !reservationCasierAnnee ( <u>#num_casier</u>, #num_adherent, <u>annee</u> )
+  * !reservationCasierSeance ( <u>#num_casier</u>, <u>date_location</u>, <u>heure_debut</u>, heure_fin #id_pers, prix_paye)
 
 = Forfaits =
 
   * forfait ( <u>type_forfait</u>, prix_base )
+  * historiqueSouscription ( <u>#type_forfait</u>, <u>#num_adherent</u>, <u>date_debut</u>, <u>date_fin</u> )
   * souscription ( <u>#type_forfait</u>, <u>#num_adherent</u>, <u>date_debut</u>, <u>date_fin</u> )
 
 = Terrains Squash =
@@ -37,8 +38,8 @@
   * !coursSquashIndividuel ( <u>#id_cours</u>, #num_adherent)
   * !coursSquashCollectif ( <u>#id_cours</u>, nb_personne ) 
   * !inscriptionCoursSqCollectif ( <u>#id_cours</u>, <u>#num_adherent</u> )
-  * creneauCoursSqIndividuel(#id_cours,<u>#num_terrain_squash</u>,date_cours,heure_debut,heure_fin)
-  * creneauCoursSqColl(<u>#id_cours</u>,#num_terrain_squash,jour,heure_debut,heure_fin,<u>debut_trimestre</u>)
+  * creneauCoursSqIndividuel(<u>#id_cours</u>,#num_terrain_squash,date_cours,heure_debut,heure_fin)
+  * creneauCoursSqColl(<u>#id_cours</u>,#num_terrain_squash,jour,heure_debut,heure_fin,debut_trimestre)
 
 = Gym =
 
