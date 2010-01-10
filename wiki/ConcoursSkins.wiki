@@ -28,7 +28,7 @@ Voici la liste des images (non finale) avec leur emplacement et leur taille, pen
     * Brasserie.png  --> 128x128
     * Casier.png  --> 128x128
     * Cours.png  --> 128x128 --> Modifier en Gymnastique.png --> 128x128 _alpha 0.4_
-    * Squash (Dossier) #Nouveau version 0.5#
+    * Squash (Dossier) _Nouveau version 0.5_
       * Annuler.png --> 48x48
       * Cours.png --> 48x48
       * Recharger.png --> 48x48
@@ -60,7 +60,7 @@ Voici la liste des images (non finale) avec leur emplacement et leur taille, pen
       * modifier.png  --> 48x48
       * recherche.png  --> 48x48
       * supprimer.png  --> 48x48
-    * location (Dossier) _alpha 0.5_
+    * location (Dossier) _nouveau alpha 0.5_
       * ajouter.png  --> 48x48
       * annuler.png  --> 48x48
       * facture.png  --> 48x48
