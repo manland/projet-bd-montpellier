@@ -23,7 +23,7 @@
 
 = Forfaits =
 
-  * forfait ( <u>type_forfait</u>, prix_base )
+  * forfait ( <u>type_forfait</u>, prix_mois, prix_trimestre, prix_semestre, prix_an )
   * historiqueSouscription ( <u>#type_forfait</u>, <u>#num_adherent</u>, <u>date_debut</u>, <u>date_fin</u> )
   * souscription ( <u>#type_forfait</u>, <u>#num_adherent</u>, <u>date_debut</u>, <u>date_fin</u> )
 
