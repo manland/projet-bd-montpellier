@@ -1,0 +1,11 @@
+url_skin=../Skins/
+skin=man
+pseudo_oracle=
+passe_oracle=
+serveur_oracle=127.0.0.1:1521:xe
+langue=fr
+explorateur_internet=firefox
+url_client_internet=http://127.0.0.1/Musquash/
+proprietaire=man
+url_oracle=/usr/lib/oracle/xe/app/oracle/product/10.2.0/server
+sid_oracle=XE
